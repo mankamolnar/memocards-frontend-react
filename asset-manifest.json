@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/memocards-esp/static/css/main.f6a22c79.chunk.css",
-    "main.js": "/memocards-esp/static/js/main.f0c0417a.chunk.js",
-    "main.js.map": "/memocards-esp/static/js/main.f0c0417a.chunk.js.map",
-    "runtime~main.js": "/memocards-esp/static/js/runtime~main.fb0bcca6.js",
-    "runtime~main.js.map": "/memocards-esp/static/js/runtime~main.fb0bcca6.js.map",
-    "static/js/2.460fe5d6.chunk.js": "/memocards-esp/static/js/2.460fe5d6.chunk.js",
-    "static/js/2.460fe5d6.chunk.js.map": "/memocards-esp/static/js/2.460fe5d6.chunk.js.map",
+    "main.css": "/memocards-esp/static/css/main.37118ac2.css",
+    "main.js": "/memocards-esp/static/js/main.ddf6bb48.js",
     "index.html": "/memocards-esp/index.html",
-    "precache-manifest.b0f8f3a3e950aa741d12e754c49fafb0.js": "/memocards-esp/precache-manifest.b0f8f3a3e950aa741d12e754c49fafb0.js",
-    "service-worker.js": "/memocards-esp/service-worker.js",
-    "static/css/main.f6a22c79.chunk.css.map": "/memocards-esp/static/css/main.f6a22c79.chunk.css.map"
-  }
+    "main.37118ac2.css.map": "/memocards-esp/static/css/main.37118ac2.css.map",
+    "main.ddf6bb48.js.map": "/memocards-esp/static/js/main.ddf6bb48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37118ac2.css",
+    "static/js/main.ddf6bb48.js"
+  ]
 }
